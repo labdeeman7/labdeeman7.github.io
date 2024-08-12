@@ -7,21 +7,20 @@ redirect_from:
   - /about.html
 ---
 
-Hello, my name is Oluwatosin(Tosin) Alabi. I am a 2nd year PhD student at Kings College London under the supervision of [Prof. Tom Vercauteren](https://sites.google.com/site/tomvercauteren/) and [Prof. Miaojing Shi](https://sites.google.com/site/miaojingshi). My research instersts are computer vision, deep learning, medical imaging, and surgical data science.
+Hello, my name is Oluwatosin(Tosin) Alabi. I am a 2nd year PhD student at Kings College London under the supervision of [Prof. Tom Vercauteren](https://sites.google.com/site/tomvercauteren/) and [Prof. Miaojing Shi](https://sites.google.com/site/miaojingshi).
 
-Research interests
+Current research interests
 ======
+* Artificial intelligence
 * Computer vision
-* Deep learning
-* Medical imaging
-* Surgical data science
+* Surgical intervention Engineering
 
 News
 ======
 * 2024.10 - I will be going to MICCAI 2024.
 * 2024.06 - We released the [CholecInstanceSeg](https://www.synapse.org/Synapse:syn60239970/wiki/628710) dataset.
 * 2023.10 - Participated in the [Syn-ISS](https://www.synapse.org/Synapse:syn50908388/wiki/620516) challenge. 
-* 2023.09 - One paper [TP-SIS](https://arxiv.org/abs/2306.09244) accepted to NEURIPS. 
+* 2023.09 - One paper [TP-SIS](https://arxiv.org/abs/2306.09244) accepted to NEURIPS 2023. 
 
 
 Publications / Preprints
@@ -83,6 +82,6 @@ Awards
 ===
 * Centre for Doctoral Training Studentship for Smart Medical Imaging.
 * Erasmus Mundus Scholarship for the IPCV program.
-* Petroleum Development Technology Fund MSc Scholarship to Kings College London.
+* Petroleum Development Technology Fund MSc Scholarship to University College London.
 * University Scholar for Electrical and Electronics Engineering Department University of Ilorin.
 
